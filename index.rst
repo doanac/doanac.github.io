@@ -64,7 +64,7 @@ Some of my more notable contributions include:
 FAQ
 ---
 
-*Can he work with others?* - My REST API work with Patchwork is a decent example
+*Can he work with others?* - My REST API work with Patchwork is a good example
 of starting with a `simple idea`_ and seeing it through to completion_. My
 `aktualizr-lite`_ project is also a good example of getting another team
 to accept potentially controversial changes.
@@ -72,7 +72,7 @@ to accept potentially controversial changes.
 *Can he articulate what he does?* - My `blog series`_ on secure over the
 air updates is an example.
 
-*Can he really code?* - The JobServ_ code base is decent proof.
+*Can he really code?* - The JobServ_ code base is should be proof.
 
 *What about C++?* - I did a bunch pre C++11, so I consider myself a bit rusty.
 However, I've been making some drive-by contributions to `aktualizr`_ recently
