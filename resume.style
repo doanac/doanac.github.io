@@ -1,0 +1,9 @@
+styles:
+  base:
+    fontSize: 10
+
+  heading1:
+    fontSize: 12
+
+  heading2:
+    fontSize: 13
