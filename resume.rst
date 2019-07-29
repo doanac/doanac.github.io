@@ -36,7 +36,7 @@ Linaro *2013 - 2017*
 
 **Senior Engineer**
 
-Ran a small team of three engineers reporting to the Director Engineering. The
+Ran a small team of three engineers reporting to the Director of Engineering. The
 team was tasked with developing and maintaining all of Linaro's internal
 tooling such as Jenkins, Git and Gerrit. Notable accomplishments include:
 
